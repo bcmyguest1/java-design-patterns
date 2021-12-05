@@ -17,3 +17,5 @@ public class FactoryMethodExample {
         posts.get(1).delete();
     }
 }
+
+
