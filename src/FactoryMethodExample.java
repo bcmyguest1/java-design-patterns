@@ -1,12 +1,11 @@
-package factory.method;
-
 import domain.post.Post;
+import domain.post.PostFactory;
 import domain.post.PostTypes;
 
 import java.io.File;
 import java.util.ArrayList;
 
-public class Main {
+public class FactoryMethodExample {
     public static void main(String[] args) {
 //        make and publish a few posts then delete one
         PostFactory factory = new PostFactory();

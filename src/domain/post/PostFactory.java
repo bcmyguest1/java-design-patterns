@@ -1,4 +1,4 @@
-package factory.method;
+package domain.post;
 
 import domain.post.BlogPost;
 import domain.post.Post;
