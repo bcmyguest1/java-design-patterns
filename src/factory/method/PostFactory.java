@@ -1,10 +1,9 @@
 package factory.method;
 
-import factory.method.post.BlogPost;
-import factory.method.post.Post;
-import factory.method.post.PostTypes;
-import factory.method.post.VideoPost;
-import jdk.jshell.spi.ExecutionControl;
+import domain.post.BlogPost;
+import domain.post.Post;
+import domain.post.PostTypes;
+import domain.post.VideoPost;
 
 import java.io.File;
 

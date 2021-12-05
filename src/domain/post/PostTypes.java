@@ -1,4 +1,4 @@
-package factory.method.post;
+package domain.post;
 
 public enum PostTypes {
     BLOG,

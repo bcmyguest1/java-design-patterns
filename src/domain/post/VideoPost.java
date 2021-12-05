@@ -1,4 +1,4 @@
-package factory.method.post;
+package domain.post;
 
 import java.io.File;
 import java.util.UUID;

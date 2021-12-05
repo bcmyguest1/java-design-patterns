@@ -1,7 +1,7 @@
 package factory.method;
 
-import factory.method.post.Post;
-import factory.method.post.PostTypes;
+import domain.post.Post;
+import domain.post.PostTypes;
 
 import java.io.File;
 import java.util.ArrayList;
