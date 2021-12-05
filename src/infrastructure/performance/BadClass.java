@@ -1,4 +1,4 @@
-package domain.performance;
+package infrastructure.performance;
 
 public class BadClass {
     public Integer doNothing() throws Exception {

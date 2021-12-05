@@ -1,6 +1,6 @@
-import domain.performance.BadClass;
-import domain.performance.NRetries;
-import domain.performance.Retry;
+import infrastructure.performance.BadClass;
+import infrastructure.performance.NRetries;
+import infrastructure.performance.Retry;
 
 import java.util.concurrent.Callable;
 

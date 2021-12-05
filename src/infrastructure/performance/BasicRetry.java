@@ -1,4 +1,4 @@
-package domain.performance;
+package infrastructure.performance;
 
 import java.util.concurrent.Callable;
 
